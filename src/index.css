@@ -1,0 +1,13 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #4158D0;
+  background-image: linear-gradient(43deg, black 0%, gray 46%, silver 100%);  
+}
